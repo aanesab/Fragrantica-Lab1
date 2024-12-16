@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fragrantica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beeb9faeb898f3bcd01c3836852e249a03cd1198")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+167d1db97ddbaa4b157b0069720b7d9365164dc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fragrantica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fragrantica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
