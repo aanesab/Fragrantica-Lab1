@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Anesa Bulliqi\\Desktop\\Fragrantica-Lab1\\FragranticaSolution\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{022B783E-6A48-411C-86D3-68D76E9BB5A5}|Fragrantica\\Fragrantica.csproj|c:\\users\\anesa bulliqi\\desktop\\fragrantica-lab1\\fragranticasolution\\fragrantica\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{022B783E-6A48-411C-86D3-68D76E9BB5A5}|Fragrantica\\Fragrantica.csproj|solutionrelative:fragrantica\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,28 +9,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Anesa Bulliqi\\Desktop\\Fragrantica-Lab1\\FragranticaSolution\\Fragrantica\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Fragrantica\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Anesa Bulliqi\\Desktop\\Fragrantica-Lab1\\FragranticaSolution\\Fragrantica\\Models\\Category.cs",
-              "RelativeToolTip": "Fragrantica\\Models\\Category.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:33:12.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
