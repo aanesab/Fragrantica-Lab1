@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Fragrantica-Lab1\\FragranticaSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{022B783E-6A48-411C-86D3-68D76E9BB5A5}|Fragrantica\\Fragrantica.csproj|c:\\users\\user\\onedrive\\desktop\\fragrantica-lab1\\fragranticasolution\\fragrantica\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{022B783E-6A48-411C-86D3-68D76E9BB5A5}|Fragrantica\\Fragrantica.csproj|solutionrelative:fragrantica\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{022B783E-6A48-411C-86D3-68D76E9BB5A5}|Fragrantica\\Fragrantica.csproj|c:\\users\\user\\onedrive\\desktop\\fragrantica-lab1\\fragranticasolution\\fragrantica\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{022B783E-6A48-411C-86D3-68D76E9BB5A5}|Fragrantica\\Fragrantica.csproj|solutionrelative:fragrantica\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022B783E-6A48-411C-86D3-68D76E9BB5A5}|Fragrantica\\Fragrantica.csproj|c:\\users\\user\\onedrive\\desktop\\fragrantica-lab1\\fragranticasolution\\fragrantica\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{022B783E-6A48-411C-86D3-68D76E9BB5A5}|Fragrantica\\Fragrantica.csproj|solutionrelative:fragrantica\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Fragrantica-Lab1\\FragranticaSolution\\Fragrantica\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Fragrantica\\Views\\Category\\Index.cshtml",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Fragrantica-Lab1\\FragranticaSolution\\Fragrantica\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Fragrantica\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Fragrantica-Lab1\\FragranticaSolution\\Fragrantica\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Fragrantica\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T14:48:13.51Z",
               "EditorCaption": ""
