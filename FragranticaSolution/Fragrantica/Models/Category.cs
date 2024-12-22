@@ -9,7 +9,7 @@ namespace Fragrantica.Models
 
         [Required]
         
-        public string Name { get; set; }
+        public required string Name { get; set; }
         public int DisplayOrder { get; set; }
 
         // test nga zana

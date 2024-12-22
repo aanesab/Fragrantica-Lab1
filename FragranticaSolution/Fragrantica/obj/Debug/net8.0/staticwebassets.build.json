@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qnncCeVIcr97N+5+2HO7AnNwWXIbsofOOTTXMjMEe1E=",
+  "Hash": "ioZ+2savft/bS3JIRksDXuD/l3qDMa2XlAcPcOWf+Aw=",
   "Source": "Fragrantica",
   "BasePath": "_content/Fragrantica",
   "Mode": "Default",
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ozu22stjof",
-      "Integrity": "ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA=",
+      "Fingerprint": "83z3xecpjr",
+      "Integrity": "nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1731,6 +1731,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.83z3xecpjr.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Fragrantica-Lab1\\FragranticaSolution\\Fragrantica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 02:44:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "83z3xecpjr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Fragrantica-Lab1\\FragranticaSolution\\Fragrantica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
@@ -1741,7 +1786,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "215356"
+          "Value": "300986"
         },
         {
           "Name": "Content-Type",
@@ -1749,11 +1794,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA=\""
+          "Value": "\"nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 22:03:44 GMT"
+          "Value": "Sun, 22 Dec 2024 02:44:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1763,7 +1808,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA="
+          "Value": "sha256-nHLSG64qKEWaZvEOT9tsnhYMm6wEgFPbieRL3HT+aek="
         }
       ]
     },
@@ -2010,51 +2055,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Fragrantica-Lab1\\FragranticaSolution\\Fragrantica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "215356"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 22:03:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ozu22stjof"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA="
         }
       ]
     },

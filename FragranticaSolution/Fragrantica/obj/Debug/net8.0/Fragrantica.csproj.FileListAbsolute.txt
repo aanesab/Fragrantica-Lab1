@@ -493,7 +493,6 @@ C:\Users\User\OneDrive\Desktop\Fragrantica-Lab1\FragranticaSolution\Fragrantica\
 C:\Users\User\OneDrive\Desktop\Fragrantica-Lab1\FragranticaSolution\Fragrantica\obj\Debug\net8.0\Fragrantica.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\OneDrive\Desktop\Fragrantica-Lab1\FragranticaSolution\Fragrantica\obj\Debug\net8.0\Fragrantica.RazorAssemblyInfo.cache
 C:\Users\User\OneDrive\Desktop\Fragrantica-Lab1\FragranticaSolution\Fragrantica\obj\Debug\net8.0\Fragrantica.RazorAssemblyInfo.cs
-C:\Users\User\OneDrive\Desktop\Fragrantica-Lab1\FragranticaSolution\Fragrantica\obj\Debug\net8.0\Fragrantica.sourcelink.json
 C:\Users\User\OneDrive\Desktop\Fragrantica-Lab1\FragranticaSolution\Fragrantica\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\User\OneDrive\Desktop\Fragrantica-Lab1\FragranticaSolution\Fragrantica\obj\Debug\net8.0\scopedcss\bundle\Fragrantica.styles.css
 C:\Users\User\OneDrive\Desktop\Fragrantica-Lab1\FragranticaSolution\Fragrantica\obj\Debug\net8.0\scopedcss\projectbundle\Fragrantica.bundle.scp.css

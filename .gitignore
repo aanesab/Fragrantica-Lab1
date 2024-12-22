@@ -4,3 +4,7 @@
 
 /FragranticaSolution/.vs/FragranticaSolution/FileContentIndex
 /FragranticaSolution/Fragrantica/bin/Debug/net8.0
+
+.vs/
+bin/
+obj/
