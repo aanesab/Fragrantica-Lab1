@@ -12,6 +12,6 @@ namespace Fragrantica.Models
         public required string Name { get; set; }
         public int DisplayOrder { get; set; }
 
-        // test nga zana
+        // test anesa
     }
 }
