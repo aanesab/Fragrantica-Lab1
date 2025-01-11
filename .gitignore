@@ -8,3 +8,7 @@
 .vs/
 bin/
 obj/
+
+# Ignore all files with specific extensions
+*.cache
+*.editorconfig
