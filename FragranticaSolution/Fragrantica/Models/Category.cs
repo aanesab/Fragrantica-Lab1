@@ -14,4 +14,5 @@ namespace Fragrantica.Models
         [Range(1, 500, ErrorMessage = "Display Order must be between 1-500")]
         public int DisplayOrder { get; set; }
     }
+
 }
