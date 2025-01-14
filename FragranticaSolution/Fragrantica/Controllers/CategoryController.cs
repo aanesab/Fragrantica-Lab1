@@ -69,7 +69,7 @@ namespace Fragrantica.Controllers
                 TempData["success"] = "Category updated successfully";
                 return RedirectToAction("Index");
             }
-            return View(obj);
+            return View();
         }
 
         public IActionResult Delete(int? id)
