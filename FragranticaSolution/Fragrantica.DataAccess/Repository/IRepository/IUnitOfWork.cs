@@ -10,7 +10,7 @@ namespace Fragrantica.DataAccess.Repository.IRepository
     {
         //IShoppingCartRepository ShoppingCart { get; }
         ICategoryRepository Category { get; }
-        //IProductRepository Product { get; }
+        IProductRepository Product { get; }
         //ICompanyRepository Company { get; }
         //IApplicationUserRepository ApplicationUser { get; }
         //IOrderHeaderRepository OrderHeader { get; }
