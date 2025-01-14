@@ -3,14 +3,15 @@ using Fragrantica.DataAccess.Repository.IRepository;
 using Fragrantica.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Fragrantica.Controllers
+namespace Fragrantica.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
         public CategoryController(IUnitOfWork unitOfWork)
         {
-            
+
             _unitOfWork = unitOfWork;
         }
         public IActionResult Index()
@@ -28,9 +29,9 @@ namespace Fragrantica.Controllers
         [HttpPost]
         public IActionResult Create(Category obj)
         {
-            if (obj.Name == obj.DisplayOrder.ToString()) 
+            if (obj.Name == obj.DisplayOrder.ToString())
             {
-              ModelState.AddModelError("name", "The display order cannot match the name!");
+                ModelState.AddModelError("name", "The display order cannot match the name!");
             }
             if (ModelState.IsValid)
             {
@@ -48,7 +49,7 @@ namespace Fragrantica.Controllers
             {
                 return NotFound();
             }
-            Category? categoryFromDb = _unitOfWork.Category.Get(u=>u.Id==id);
+            Category? categoryFromDb = _unitOfWork.Category.Get(u => u.Id == id);
             //Category? categoryFromDb1 = _db.Categories.FirstOrDefault(u=>u.Id==id);
             //Category? categoryFromDb2 = _db.Categories.Where(u=>u.Id==id).FirstOrDefault();
 
@@ -62,7 +63,7 @@ namespace Fragrantica.Controllers
         [HttpPost]
         public IActionResult Edit(Category obj)
         {
-            
+
             if (ModelState.IsValid)
             {
                 _unitOfWork.Category.Update(obj);
@@ -80,7 +81,7 @@ namespace Fragrantica.Controllers
                 return NotFound();
             }
             Category? categoryFromDb = _unitOfWork.Category.Get(u => u.Id == id);
-       
+
             if (categoryFromDb == null)
             {
                 return NotFound();
@@ -93,14 +94,14 @@ namespace Fragrantica.Controllers
         {
             Category? obj = _unitOfWork.Category.Get(u => u.Id == id);
             if (obj == null)
-            {  
-                return NotFound(); 
+            {
+                return NotFound();
             }
-            _unitOfWork.Category.Remove (obj);
+            _unitOfWork.Category.Remove(obj);
             _unitOfWork.Save();
             TempData["success"] = "Category deleted successfully";
             return RedirectToAction("Index");
-           
+
         }
     }
 }
