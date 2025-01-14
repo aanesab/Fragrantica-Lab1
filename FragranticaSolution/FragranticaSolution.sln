@@ -5,6 +5,12 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fragrantica", "Fragrantica\Fragrantica.csproj", "{022B783E-6A48-411C-86D3-68D76E9BB5A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fragrantica.DataAccess", "Fragrantica.DataAccess\Fragrantica.DataAccess.csproj", "{288365CE-AF71-4D2E-B20F-E7FBD0CB1361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fragrantica.Utility", "Fragrantica.Utility\Fragrantica.Utility.csproj", "{593B6E62-6432-4506-8084-5567433883B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fragrantica.Models", "Fragrantica.Models\Fragrantica.Models.csproj", "{DA12C27B-CEBB-4B08-A95C-4993D1E154F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{022B783E-6A48-411C-86D3-68D76E9BB5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{022B783E-6A48-411C-86D3-68D76E9BB5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{022B783E-6A48-411C-86D3-68D76E9BB5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288365CE-AF71-4D2E-B20F-E7FBD0CB1361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288365CE-AF71-4D2E-B20F-E7FBD0CB1361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288365CE-AF71-4D2E-B20F-E7FBD0CB1361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288365CE-AF71-4D2E-B20F-E7FBD0CB1361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593B6E62-6432-4506-8084-5567433883B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593B6E62-6432-4506-8084-5567433883B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593B6E62-6432-4506-8084-5567433883B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593B6E62-6432-4506-8084-5567433883B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA12C27B-CEBB-4B08-A95C-4993D1E154F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA12C27B-CEBB-4B08-A95C-4993D1E154F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA12C27B-CEBB-4B08-A95C-4993D1E154F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA12C27B-CEBB-4B08-A95C-4993D1E154F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
