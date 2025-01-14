@@ -1,7 +1,7 @@
 ﻿using Fragrantica.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Fragrantica.Data
+namespace Fragrantica.DataAccess.Data
 {
     public class ApplicationDbContext : DbContext
     {
