@@ -61,6 +61,7 @@ namespace Fragrantica.Areas.Admin.Controllers
         public IActionResult Edit(Product obj)
         {
 
+
             if (ModelState.IsValid)
             {
                 _unitOfWork.Product.Update(obj);
